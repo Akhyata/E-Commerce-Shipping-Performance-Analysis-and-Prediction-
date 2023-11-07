@@ -37,7 +37,7 @@ Utilized a comprehensive E-Commerce Shipping dataset from [Source]. Data underwe
 - Overcame challenges in handling outliers and maintaining data quality for robust predictive analysis.
 
 ### 📈 Dashboard
-![image](https://github.com/Akhyata/3.-E-Commerce-Shipping-Performance-Analysis-and-Prediction-/assets/143725909/62c443df-a8e7-45ac-9b97-db7444949e7f)
+![Screenshot 2023-10-31 175355](https://github.com/Akhyata/3.-E-Commerce-Shipping-Performance-Analysis-and-Prediction-/assets/143725909/0e652ecf-746f-4d4d-980d-79b1d47de373)
 
 
 ### 🏁 Conclusion
