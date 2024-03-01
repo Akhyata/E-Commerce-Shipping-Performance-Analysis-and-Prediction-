@@ -1,5 +1,5 @@
 ![E-Commerce-Shipping-Performance-Analysis-and-Prediction (1)](https://github.com/Akhyata/3.-E-Commerce-Shipping-Performance-Analysis-and-Prediction-/assets/143725909/ec3893d5-177c-4a40-851b-cd51c9126efa)
-................................................................................................................................................
+..............................................................................................................................................
 ---
 
 ## 🚀 Project: E-Commerce Shipping Performance Analysis and Prediction
@@ -10,7 +10,7 @@ The project aimed to boost e-commerce shipping efficiency using Python, Pandas f
 
 ### 📊 Data
 
-Utilized a comprehensive E-Commerce Shipping dataset from [Source]. Data underwent meticulous preprocessing, including cleaning and refining for optimal analysis.
+Utilized a comprehensive E-Commerce Shipping dataset. Data underwent meticulous preprocessing, including cleaning and refining for optimal analysis.
 
 ### 🛠️ Methodology
 
