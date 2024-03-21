@@ -22,7 +22,6 @@ Utilized a comprehensive E-Commerce Shipping dataset. Data underwent meticulous 
    offering insights into on-time delivery predictions.
    ![Screenshot 2023-11-07 150032](https://github.com/Akhyata/3.-E-Commerce-Shipping-Performance-Analysis-and-Prediction-/assets/143725909/40e2ae9f-7eb1-45cd-8bb1-3f5a6f664970)
 
-
 3. Visualization: Developed a Power BI dashboard to visualize shipping performance and predictive analysis comprehensively.
 
 ### 🎯 Findings
@@ -37,8 +36,7 @@ Utilized a comprehensive E-Commerce Shipping dataset. Data underwent meticulous 
 - Overcame challenges in handling outliers and maintaining data quality for robust predictive analysis.
 
 ### 📈 Dashboard
-![Screenshot 2023-10-31 175355](https://github.com/Akhyata/3.-E-Commerce-Shipping-Performance-Analysis-and-Prediction-/assets/143725909/0e652ecf-746f-4d4d-980d-79b1d47de373)
-
+ ![Screenshot 2023-10-31 174703](https://github.com/Akhyata/E-Commerce-Shipping-Performance-Analysis-and-Prediction-/assets/143725909/aa5e0be0-3cbc-4c33-870e-4bbeb4cf0614)
 
 ### 🏁 Conclusion
 
