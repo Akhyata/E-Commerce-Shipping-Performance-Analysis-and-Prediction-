@@ -16,7 +16,7 @@ Utilized a comprehensive E-Commerce Shipping dataset. Data underwent meticulous 
 
 1. Data Preprocessing: Employed Pandas to clean and manipulate data, ensuring its readiness for analysis and modeling.
 
-2. Feature Selection: Utilized Principal Component Analysis (PCA) to identify crucial features, streamlining data exploration and outlier identification.
+2. Feature Selection: Identify crucial features, streamlining data exploration and outlier identification.
 
 3. Machine Learning Modeling: Implemented various machine learning algorithms (Logistic Regression, Decision Tree, Random Forest) with the Random Forest Classifier achieving a peak accuracy of 65%, 
    offering insights into on-time delivery predictions.
